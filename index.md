@@ -7,15 +7,15 @@
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
 </div>
-    <h1>Laws</h1>
+<h1>Typewriter</h1>
 
-<button onclick="Laws()">Click me</button>
+<button onclick="typeWriter()">Click me</button>
 
 <p id="demo"></p>
 
 <script>
 var i = 0;
-var txt = '3rd law- Every action is equal and opposite reaction';
+var txt = 'Lorem ipsum dummy text blabla.';
 var speed = 50;
 
 function typeWriter() {
